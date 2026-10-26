@@ -103,3 +103,7 @@ reference place. Estimated difference <= 0.5 miles is PASS; > 0.5 miles is
 REVIEW_APPROXIMATE_LOCATION. Different named places are still mismatches.
 This is an approximate text comparison, **not** geographic proof or an FMCSA
 compliance determination. Embedded images are counted but not OCRed.
+
+
+
+https://github.com/xayaneusa-gif/logscheck
