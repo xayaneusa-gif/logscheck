@@ -106,4 +106,4 @@ compliance determination. Embedded images are counted but not OCRed.
 
 
 
-https://github.com/xayaneusa-gif/logscheck
+https://logscheck-7g77hshtprhsy3gubhvbom.streamlit.app/
